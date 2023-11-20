@@ -6,3 +6,5 @@ Meu nome é Raul Antonio
 -Aqui tera trabalho de JavaScript e HTML
 
 raul.antonio.paula@escola.pr.gov.br
+
+https://media.tenor.com/knVbFLcyQecAAAAC/roberto-carlos.gif/
